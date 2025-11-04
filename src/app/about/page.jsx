@@ -86,7 +86,7 @@ export default function page() {
             <p className="text-gray-300 mt-2">
               CGPA: <span className="font-medium text-gray-100">8.7</span>
             </p>
-            <p className="text-gray-500 text-sm mt-1">Graduated — 2024</p>
+            <p className="text-gray-500 text-sm mt-1">Graduated — 2025</p>
           </div>
         </div>
 
