@@ -5,7 +5,7 @@ const projects = [
   {
     title: "IMAGIFY – Image Gallery App",
     desc: "A responsive image upload and gallery built using the MERN stack.",
-    link: "https://imagify.vercel.app/",
+    link: "https://imagify-1-npp7.onrender.com//",
     image: "/imagify.png"
   },
 ];
