@@ -54,7 +54,7 @@ export default function page() {
             </a>
 
             <a
-              href="mailto:zainutaibu@gmail.com"
+              href="mailto:zainutaibu@mail.com"
               className="text-gray-300 hover:text-blue-400 transition-colors"
             >
               <FaEnvelope />
