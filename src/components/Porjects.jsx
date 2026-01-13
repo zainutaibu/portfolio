@@ -5,8 +5,14 @@ const projects = [
   {
     title: "IMAGIFY – Image Gallery App",
     desc: "A responsive image upload and gallery built using the MERN stack.",
-    link: "https://imagify-1-npp7.onrender.com//",
+    link: "https://imagify-1-jkre.onrender.com/",
     image: "/imagify.png"
+  },
+   {
+    title: "CHATIFY – Chat-Application",
+    desc: "A real-time MERN stack chat application with secure authentication and instant messaging using Socket.io",
+    link: "https://chatify-1-rlbm.onrender.com ",
+    image: "/chatify.png"
   },
 ];
 
