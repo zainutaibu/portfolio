@@ -54,7 +54,7 @@ export default function page() {
             </a>
 
             <a
-              href="mailto:zainutaibu@mail.com"
+              href="mailto:zainutaibu@gmail.com"
               className="text-gray-300 hover:text-blue-400 transition-colors"
             >
               <FaEnvelope />
@@ -106,11 +106,20 @@ export default function page() {
               <span className="text-gray-100 font-medium">MERN stack</span>, 
               focused on image generation and management.
             </p>
-            <p className="text-gray-400 leading-relaxed">
-              Currently working on{" "}
-              <span className="text-gray-100 font-medium">ClassPro</span>, 
-              a web application aimed at streamlining class management and automation.
+          
+                <p className="text-gray-400 leading-relaxed">
+              Completed <span className="text-gray-100 font-medium">Chat Hub</span> — 
+              a real-time <span className="text-gray-100 font-medium">MERN stack</span> chat application with secure authentication and instant messaging using Socket.io{" "}
+              , 
             </p>
+
+          <p className="text-gray-400 leading-relaxed">
+              Currently working on{" "}
+              <span className="text-gray-100 font-medium">Zoe Beauty</span>of skin care product
+            </p>
+
+
+
           </div>
         </div>
       </motion.section>

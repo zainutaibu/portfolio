@@ -6,7 +6,7 @@ export default function Skills() {
     { name: "CSS", logo: "/skills/css.png" },
     { name: "JavaScript", logo: "/skills/javascript.png" },
     { name: "Tailwind CSS", logo: "/skills/tailwind.png" },
-    { name: "React", logo: "/skills/react.png" },
+    { name: "React.js", logo: "/skills/react.png" },
     { name: "Next.js", logo: "/skills/nextjs.png" },
     { name: "Node.js", logo: "/skills/node.png" },
     { name: "Express.js", logo: "/skills/express.png" },
@@ -14,6 +14,7 @@ export default function Skills() {
     { name: "Figma", logo: "/skills/figma.png" },
     { name: "Postman", logo: "/skills/postman.png" },
     { name: "Excel", logo: "/skills/excel.png" },
+    {name:"MySql", logo:"/skills/mysql.png"},
   ];
 
   return (

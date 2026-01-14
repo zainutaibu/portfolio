@@ -30,7 +30,7 @@ export default function Home() {
 
         <div className="flex justify-center gap-4 mt-8">
           <a
-            href="/ZAINAB RESUME.pdf"
+            href="/RESUME_ZAINAB_ALI.pdf"
             download
             className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold transition"
           >
